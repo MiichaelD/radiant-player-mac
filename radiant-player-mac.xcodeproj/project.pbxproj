@@ -768,6 +768,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "radiant-player-mac/prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/radiant-player-mac/info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "Radiant Player";
 				WRAPPER_EXTENSION = app;
 			};
@@ -785,6 +786,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "radiant-player-mac/prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/radiant-player-mac/info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "Radiant Player";
 				WRAPPER_EXTENSION = app;
 			};
